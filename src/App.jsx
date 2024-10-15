@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import './App.css'; // Import your CSS file
+import './App.css'; 
 
 const App = () => {
     const ACCESS_KEY = import.meta.env.VITE_APP_ACCESS_KEY; 
